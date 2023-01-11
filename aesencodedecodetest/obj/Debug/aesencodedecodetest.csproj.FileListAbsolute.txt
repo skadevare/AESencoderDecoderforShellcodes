@@ -1,0 +1,8 @@
+C:\Users\nevdull\Jottacloud\OSEP\VScode\ChatGPT\aesencodedecodetest\bin\Debug\aesencodedecodetest.exe.config
+C:\Users\nevdull\Jottacloud\OSEP\VScode\ChatGPT\aesencodedecodetest\bin\Debug\aesencodedecodetest.exe
+C:\Users\nevdull\Jottacloud\OSEP\VScode\ChatGPT\aesencodedecodetest\bin\Debug\aesencodedecodetest.pdb
+C:\Users\nevdull\Jottacloud\OSEP\VScode\ChatGPT\aesencodedecodetest\obj\Debug\aesencodedecodetest.csproj.AssemblyReference.cache
+C:\Users\nevdull\Jottacloud\OSEP\VScode\ChatGPT\aesencodedecodetest\obj\Debug\aesencodedecodetest.csproj.SuggestedBindingRedirects.cache
+C:\Users\nevdull\Jottacloud\OSEP\VScode\ChatGPT\aesencodedecodetest\obj\Debug\aesencodedecodetest.csproj.CoreCompileInputs.cache
+C:\Users\nevdull\Jottacloud\OSEP\VScode\ChatGPT\aesencodedecodetest\obj\Debug\aesencodedecodetest.exe
+C:\Users\nevdull\Jottacloud\OSEP\VScode\ChatGPT\aesencodedecodetest\obj\Debug\aesencodedecodetest.pdb
